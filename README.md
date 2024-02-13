@@ -1,1 +1,1 @@
-The goal of this project was to learn some ML. 
+The goal of this project is to learn some ML. 
