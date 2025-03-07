@@ -1,1 +1,1 @@
-The goal of this project is to learn some ML. 
+More experimenting from first year at uni
